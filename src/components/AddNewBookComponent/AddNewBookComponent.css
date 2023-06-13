@@ -1,0 +1,18 @@
+.add-new > h1{
+    text-align: center;
+}
+.container{
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.submit-btn{
+    border: 0;
+    border-radius: 15px;
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+}
